@@ -20,6 +20,11 @@ main{
 
 h1{
     text-align: center;
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-shadow: 0 0 8px white;
 }
 
 button{
