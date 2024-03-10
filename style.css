@@ -120,6 +120,7 @@ a{
     }
     .estadisticas{
         margin: 5px;
-        height: 40px;
+        height: auto;
+        font-size: 20px;
     }
 }
